@@ -1,0 +1,12 @@
+{
+    "eslint.workingDirectories": [
+        {
+            "mode": "auto"
+        }
+    ],
+    "editor.formatOnSaveTimeout": 2000,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    }
+}
